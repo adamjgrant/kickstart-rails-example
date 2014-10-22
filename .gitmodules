@@ -1,3 +1,0 @@
-[submodule "app/assets/stylesheets/ks-shim"]
-	path = app/assets/stylesheets/ks-shim
-	url = git://github.com/ajkochanowicz/ks-shim.git
