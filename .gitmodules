@@ -1,0 +1,3 @@
+[submodule "app/assets/stylesheets/kickstart-default-theme"]
+	path = app/assets/stylesheets/kickstart-default-theme
+	url = git://github.com/ajkochanowicz/kickstart-default-theme.git

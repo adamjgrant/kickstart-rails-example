@@ -37,15 +37,12 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
-# Do not use sass-rails
-# # gem 'sass-rails'
 #
 # # Use Sass 3.4 and above.
-# gem 'sass', '~> 3.4'
+gem 'sass', '~> 3.4', '< 3.4.6' # 3.4.6 introduces bug
 #
 # # Add the kickstart_rails gem
-# gem 'kickstart_rails', '~> 3'
+gem 'kickstart_rails', '~> 3'
 #
 # # Add autoprefixer
-# gem 'autoprefixer-rails'
+gem 'autoprefixer-rails'
