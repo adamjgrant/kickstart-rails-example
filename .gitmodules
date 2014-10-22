@@ -1,3 +1,6 @@
 [submodule "app/assets/stylesheets/core"]
 	path = app/assets/stylesheets/core
 	url = git://github.com/ajkochanowicz/core.git
+[submodule "app/assets/stylesheets/themes/kickstart-default-theme"]
+	path = app/assets/stylesheets/themes/kickstart-default-theme
+	url = git://github.com/ajkochanowicz/kickstart-default-theme.git
