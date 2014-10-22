@@ -1,0 +1,3 @@
+[submodule "app/assets/stylesheets/core"]
+	path = app/assets/stylesheets/core
+	url = git://github.com/ajkochanowicz/core.git
