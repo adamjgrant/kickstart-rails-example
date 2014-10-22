@@ -6,7 +6,7 @@ gem 'rails', '4.1.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 4.0.3'
+# gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
@@ -38,3 +38,14 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Do not use sass-rails
+# # gem 'sass-rails'
+#
+# # Use Sass 3.4 and above.
+# gem 'sass', '~> 3.4'
+#
+# # Add the kickstart_rails gem
+# gem 'kickstart_rails', '~> 3'
+#
+# # Add autoprefixer
+# gem 'autoprefixer-rails'
